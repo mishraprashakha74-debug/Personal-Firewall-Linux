@@ -127,7 +127,3 @@ Through this project, I learned:
 
 ---
 
-* Packet inspection and monitoring
-
----
-
